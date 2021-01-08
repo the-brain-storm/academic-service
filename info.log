@@ -1,0 +1,7 @@
+{"level":"info","message":"App is listening on port 3000","timestamp":"2021-01-06T19:37:32.158Z"}
+{"level":"info","message":"DB CONNECTION OPENED","timestamp":"2021-01-06T19:37:32.190Z"}
+{"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-06T19:38:15.439Z"}
+{"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-06T19:38:15.750Z"}
+{"level":"info","message":"App is listening on port 3000","timestamp":"2021-01-06T19:39:59.442Z"}
+{"level":"info","message":"DB CONNECTION OPENED","timestamp":"2021-01-06T19:39:59.462Z"}
+{"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-06T19:40:07.256Z"}
