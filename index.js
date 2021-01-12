@@ -31,11 +31,12 @@ app.listen(port, () => {
       logger.log('info', `App is listening on port ${port}`);
 })
 
-const sessionRoutes = require('./routes/session')
 // MIDDLEWARES
 app.use(express.json());
 
 // ROUTES IMPORTS
+const sessionRoutes = require('./routes/session')
+
 
 // GENERALIZED ROUTE
 app.use('/session', sessionRoutes);
