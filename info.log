@@ -9,3 +9,20 @@
 {"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-12T06:01:28.578Z"}
 {"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-12T06:01:28.897Z"}
 {"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-12T06:01:40.812Z"}
+{"level":"info","message":"App is listening on port 3000","timestamp":"2021-01-12T06:19:07.021Z"}
+{"level":"info","message":"App is listening on port 3000","timestamp":"2021-01-12T06:20:40.767Z"}
+{"level":"info","message":"DB CONNECTION OPENED","timestamp":"2021-01-12T06:20:40.820Z"}
+{"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-12T06:20:59.812Z"}
+{"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-12T06:21:00.219Z"}
+{"level":"info","message":"ERROR: Request to an undefined route address","timestamp":"2021-01-12T06:21:05.337Z"}
+{"level":"info","message":"App is listening on port 3000","timestamp":"2021-01-12T06:25:13.701Z"}
+{"level":"info","message":"DB CONNECTION OPENED","timestamp":"2021-01-12T06:25:13.731Z"}
+{"level":"info","message":"Fetched session's list","timestamp":"2021-01-12T06:25:20.214Z"}
+{"level":"info","message":"Error while fetching sessionss list: TypeError: req.join is not a function","timestamp":"2021-01-12T06:25:20.217Z"}
+{"level":"info","message":"App is listening on port 3000","timestamp":"2021-01-12T06:25:48.434Z"}
+{"level":"info","message":"DB CONNECTION OPENED","timestamp":"2021-01-12T06:25:48.462Z"}
+{"level":"info","message":"Fetched session's list","timestamp":"2021-01-12T06:25:54.400Z"}
+{"level":"info","message":"Error while fetching sessionss list: TypeError: res.join is not a function","timestamp":"2021-01-12T06:25:54.400Z"}
+{"level":"info","message":"App is listening on port 3000","timestamp":"2021-01-12T06:26:28.618Z"}
+{"level":"info","message":"DB CONNECTION OPENED","timestamp":"2021-01-12T06:26:28.646Z"}
+{"level":"info","message":"Fetched session's list","timestamp":"2021-01-12T06:26:37.483Z"}

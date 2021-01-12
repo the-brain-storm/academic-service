@@ -6,7 +6,7 @@ callbacks.getSessionList = (req,res) =>{
     Session.find(req.query)
     .then(s=> {
         logger.log('info' , `Fetched session's list`);
-        req.join(s);
+        res.json(s);
     })
     .catch(err => {
         logger.log('info' , `Error while fetching sessionss list: ${err}`);
