@@ -1,22 +1,22 @@
 {
-  "name": "academic-services",
+  "name": "academic-service",
   "version": "1.0.0",
-  "description": "academic-services",
+  "description": "academic-service ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AVNV2201/academic-services.git"
+    "url": "git+https://github.com/the-brain-storm/academic-service.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AVNV2201/academic-services/issues"
+    "url": "https://github.com/the-brain-storm/academic-service/issues"
   },
-  "homepage": "https://github.com/AVNV2201/academic-services#readme",
+  "homepage": "https://github.com/the-brain-storm/academic-service#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
